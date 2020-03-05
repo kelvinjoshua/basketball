@@ -22,7 +22,7 @@
   
  ## Contact Details
   - Email: kelvinbale78@gmail.com
-  - Phone-No:0758913185
+
   - Github: kelvinjoshua
  ## Copyright and Licence information 
  ## MIT License
