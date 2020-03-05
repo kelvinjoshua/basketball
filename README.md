@@ -2,7 +2,7 @@
 - nba
 
  ## Project Author
-- kelvin Bale
+- kelvinBale
 
  ## Project Description
  - This is a webpage with images and a brief decription on the about page
