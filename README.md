@@ -17,7 +17,7 @@
  * You need to have a github account
 
  ## Live Link
-  -  my Github link
+  -  my Github live link
       https://kelvinjoshua.github.io/basketball/
   
  ## Contact Details
