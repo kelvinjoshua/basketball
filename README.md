@@ -22,7 +22,6 @@
   
  ## Contact Details
   - Email: kelvinbale78@gmail.com
-
   - Github name: kelvinjoshua
  ## Copyright and Licence information 
  ## MIT License
