@@ -66,7 +66,7 @@ body {
 }
 .profile-text img{
     width: 100%;
-    height: 350px;
+    height: 2444400px;
 }
 .profile-content {
     padding: 40px;
@@ -75,6 +75,7 @@ body {
     color: lightseagreen;
     font-weight: 900;
     font-size: larger;
+    
 }
 .profile-content > .hobbies {
     color: lightseagreen;
