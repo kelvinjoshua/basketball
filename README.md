@@ -6,6 +6,7 @@
 
  ## Project Description
  - This is a webpage with images and a brief decription on the about page
+ - with a list of  2 projects done earlier on
 
  ## Technology used
  - HTML
