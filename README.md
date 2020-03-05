@@ -1,5 +1,5 @@
 ## Project name
-- the-nba
+- nba
 
  ## Project Author
 - kelvin Bale
