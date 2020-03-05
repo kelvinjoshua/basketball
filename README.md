@@ -1,6 +1,5 @@
 ## Project name
 - nba
-
  ## Project Author
 - kelvinBale
 
